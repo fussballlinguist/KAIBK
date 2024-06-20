@@ -12,3 +12,5 @@ Im Ordner "Daten" sind zu Demonstrationszwecken einige anonymisierte Datensätze
 Die Skripte sind beschrieben in Kap. 5.4 des Buches: Beißwenger, Michael/Lüngen, Harald/Meier-Vieracker, Simon/Steinsiek, Sarah/Herzberg, Laura/Storrer, Angelika (2025): Korpusgestützte Analyse internetbasierter Kommunikation: Eine Einführung. J.B. Metzler.
 
 Für eine allgemeine Einführung in Python bzw. Juypter Notebooks kann der freie Online-Kurs ["Programmieren für Geistes- und Sozialwissenschaftler:innen"](https://github.com/yannickfrommherz/exdimed-student) empfohlen werden, der im Rahmen des Projekts Experimentierraum Digitale Medienkompetenz im Projektverbund [Virtuelles Lehren und Lernen an der TU Dresden im Open Source-Kontext](https://tu-dresden.de/gsw/virtuos) entsteht.
+
+Simon Meier-Vieracker, TU Dresden
