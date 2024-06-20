@@ -4,7 +4,8 @@ Dieses Repositorium enth채lt einige Python-Skripte (_Jupyter Notebooks_), die f�
 1. [instaloader_to_xml.ipynb](https://github.com/fussballlinguist/KAIBK/blob/main/instaloader_to_xml.ipynb) f체r JSON-Output von Instaloader
 2. [telegram_to_xml.ipynb](https://github.com/fussballlinguist/KAIBK/blob/main/telegram_to_xml.ipynb) f체r JSON-Output von Telegram
 3. [YT_to_xml.ipynb](https://github.com/fussballlinguist/KAIBK/blob/main/YT_to_xml.ipynb) f체r TSV-Output der [YouTube Data Tools](https://ytdt.digitalmethods.net/)
-4. [scilogs_to_xml.ipynb](https://github.com/fussballlinguist/KAIBK/blob/main/scilogs_to_xml.ipynb) f체r Scraping von scilogs.spektrum.de
+4. [whatsapp_to_xml.ipynb](https://github.com/fussballlinguist/KAIBK/blob/main/whatsapp_to_xml.ipynb) f체r txt-Output von WhatsApp
+5. [scilogs_to_xml.ipynb](https://github.com/fussballlinguist/KAIBK/blob/main/scilogs_to_xml.ipynb) f체r Scraping von scilogs.spektrum.de
 
 Im Ordner "Daten" sind zu Demonstrationszwecken einige anonymisierte Datens채tze enthalten. F체r die Anonymisierung wurde das hier ebenfalls abgelegte Skript [convert.py](https://github.com/fussballlinguist/KAIBK/blob/main/convert.py) genutzt.
 
