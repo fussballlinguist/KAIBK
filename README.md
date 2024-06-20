@@ -6,7 +6,7 @@ Dieses Repositorium enthält einige Python-Skripte (_Jupyter Notebooks_), die f�
 3. [YT_to_xml.ipynb](https://github.com/fussballlinguist/KAIBK/blob/main/YT_to_xml.ipynb) für TSV-Output der [YouTube Data Tools](https://ytdt.digitalmethods.net/)
 4. [scilogs_to_xml.ipynb](https://github.com/fussballlinguist/KAIBK/blob/main/scilogs_to_xml.ipynb) für Scraping von scilogs.spektrum.de
 
-Im Ordner "Daten" sind zu Demonstrationszwecken einige anonymisierte Datensätze enthalten.
+Im Ordner "Daten" sind zu Demonstrationszwecken einige anonymisierte Datensätze enthalten. Für die Anonymisierung wurde das hier ebenfalls abgelegte Skript [convert.py](https://github.com/fussballlinguist/KAIBK/blob/main/convert.py) genutzt.
 
 Die Skripte sind beschrieben in Kap. 5.4 des Buches: Beißwenger, Michael/Lüngen, Harald/Meier-Vieracker, Simon/Steinsiek, Sarah/Herzberg, Laura/Storrer, Angelika (2025): Korpusgestützte Analyse internetbasierter Kommunikation: Eine Einführung. J.B. Metzler.
 
